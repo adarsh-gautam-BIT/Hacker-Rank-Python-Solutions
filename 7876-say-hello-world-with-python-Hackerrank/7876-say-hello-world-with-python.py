@@ -1,4 +1,5 @@
-print("")
+print("Hello, World!")
+
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
